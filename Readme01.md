@@ -1,9 +1,12 @@
-Pasta de Projetos públicos enviados e compartilhados
-Projetos principais
-    01 - numeros randomicos com estilização e entrada de dados com javascript
-    02 - Curriculo web, com utilização do conhecimento adquirido entre os commits.
-    03 - exercicios dos treinamentos feitos.
-    05 - projetos iniciais da web.
+    * inicio
+    Pasta de Projetos públicos enviados e compartilhados
+
+         Projetos principais
+            01 - numeros randomicos com estilização e entrada de dados com javascript
+            02 - Curriculo web, com utilização do conhecimento adquirido entre os commits.
+            03 - exercicios dos treinamentos feitos.
+            05 - projetos iniciais da web.
+    
 *um pouco sobre mim:
 Julio Ramos de Almeida Neto
     técnico em Automação Industrial
